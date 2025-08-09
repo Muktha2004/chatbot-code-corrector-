@@ -5,6 +5,3 @@ Supports interactive conversation with GPT models (gpt-3.5-turbo or gpt-4o).
 Clean and modular code structure for easy customization.
 Safe exit commands: quit, exit, or bye.
 
-
-
-        print("Chatbot:", response)
